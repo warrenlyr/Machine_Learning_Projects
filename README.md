@@ -1,6 +1,5 @@
 # uo-cis472-s21
-##University of Oregon##
-##CIS472/572##
-##Machine Learning##
-##Spring 2021##
-
+* University of Oregon
+* Spring 2021
+* CIS472/572
+* Machine Learning
